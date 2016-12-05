@@ -1,2 +1,7 @@
 print ("Hello world");
+<<<<<<< HEAD
 print ("hello everybody how are you");
+=======
+print ("Hello everybody how are you");
+print ("Hello");
+>>>>>>> master
